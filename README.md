@@ -1,4 +1,6 @@
-![62400333-5905-4e3a-9a35-602aa51d5e2e](https://github.com/user-attachments/assets/99232855-3966-44a7-9563-cf7e37cb790a)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/99232855-3966-44a7-9563-cf7e37cb790a" alt="Suscetibilidade_a_Mudanca" width="800"/>
+</div>
 
 # Suscetibilidade a Mudança
  
