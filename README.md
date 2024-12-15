@@ -65,8 +65,8 @@ ________________________________________
 Como Utilizar Este Projeto
 ```
 1.Clone o Repositório
-2.git clone https://github.com/seu-usuario/nome-do-repositorio.git
-3.cd nome-do-repositorio
+2.git clone https://github.com/EvertonSFTeixeira/Suscetibilidade_a_Mudanca.git
+3.cd Suscetibilidade_a_Mudanca
 4.Instale as Dependências
    Use o arquivo requirements.txt:
 5.pip install -r requirements.txt
